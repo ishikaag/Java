@@ -12,7 +12,4 @@ public class FactorialOfNumber {
         System.out.println("Factorial of "+ n + " = "+res);
     }
 }
-//list of prime numbers int min max,
-//math.sqrt in is prime
-//twinn prime
-// armstrong n digits
+
