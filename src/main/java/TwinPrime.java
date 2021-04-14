@@ -8,7 +8,7 @@ public class TwinPrime {
                 twinPrime+=i+","+(i+2)+" - ";
             }
         }
-        return twinPrime.substring(0, twinPrime.length() - 2);
+        return twinPrime.substring(0, twinPrime.length() - 2); //to return the last pair with appending "-" at last
     }
         public static boolean isPrime(int n){
         if(n<=1)
